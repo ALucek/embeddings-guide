@@ -1,4 +1,4 @@
-# Code from my What The Hell Is a Vector Database Video!
+# Code from my What The Hell Is A Vector Database Video!
 
 [![vid_screenshot.png](vid_screenshot.png)]()
 Click play to watch :)
