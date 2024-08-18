@@ -1,4 +1,4 @@
-# Code from my Language Model Distillation Video!
+# Code from my What The Hell Is a Vector Database Video!
 
 [![vid_screenshot.png](vid_screenshot.png)]()
 Click play to watch :)
